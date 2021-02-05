@@ -3,3 +3,182 @@ https://preview.webpixels.io/purpose-website-ui-kit/index.html
 
 
 https://stackoverflow.com/questions/21454318/stop-slideshow-on-mouseover
+
+========================================
+<section class="wpb_row row-fluid section-padd support-section parallax row-has-fill row-o-equal-height row-o-content-middle row-flex">
+            <div class="container">
+                <div class="row">
+                     <div class="section-head ">
+                        <h6 style="color: #fff;"><span>Historie</span></h6>
+                    </div>
+                    <div class="wpb_column column_container col-sm-12 col-md-12">
+                        <div class="column-inner xscroll">
+                            <div class="wpb_wrapper one_liner">
+                                  <ul class="timeline">
+                                    <li>
+                                      <div class="timeline-badge warning"><a href="javascript:;" style="color: #fff;" onmouseover="shufflediv('div10')"><span>1998</span></a></div>
+                                      <div class="timeline-panel" id="div10" style="display: none;">
+                                        <div class="timeline-body">
+                                          <p>Gründung Profion (damals noch Dr. Lutz Beratungsinstitut für Altersversorgung GmbH)</p>
+                                        </div>
+                                      </div>
+                                    </li> 
+                                    <li>
+                                      <div class="timeline-badge danger"><a href="javascript:;" style="color: #fff;" onmouseover="shufflediv('div9')"><span>1999</span></a></div>
+                                      <div class="timeline-panel stepper-penel-a" id="div9" style="display: none;">
+                                        <div class="timeline-body">
+                                          <p>Gründung des EPF Euro-BetriebsPensionsFonds e.V. als eigene, kongruent rückdeckende Unterstützungskasse der Profion GmbH</p>
+                                        </div>
+                                      </div>
+                                    </li> 
+                                    <li>
+                                      <div class="timeline-badge warning"><a href="javascript:;" style="color: #fff;" onmouseover="shufflediv('div8')"><span>2000</span></a></div>
+                                      <div class="timeline-panel" id="div8" style="display: none;">
+                                        <div class="timeline-body">
+                                          <p>Jürgen Kropp wird Geschäftsführer der Profion GmbH</p>
+                                        </div>
+                                      </div>
+                                    </li> 
+                                    <li>
+                                      <div class="timeline-badge danger"><a href="javascript:;" style="color: #fff;" onmouseover="shufflediv('div7')"><span>2000</span></a></div>
+                                      <div class="timeline-panel stepper-penel-a" id="div7" style="display: none;">
+                                        <div class="timeline-body">
+                                          <p>Erster Firmenkunde der Profion ist die Lotus Development GmbH</p>
+                                        </div>
+                                      </div>
+                                    </li> 
+                                    <li>
+                                      <div class="timeline-badge warning"><a href="javascript:;" style="color: #fff;" onmouseover="shufflediv('div6')"><span>2001</span></a></div>
+                                      <div class="timeline-panel" id="div6" style="display: none;">
+                                        <div class="timeline-body">
+                                          <p>Erste Kooperationsvereinbarung mit US Benefit Consultant (PIC Polak International Consultants, Los Angeles)</p>
+                                        </div>
+                                      </div>
+                                    </li>
+                                    <li>
+                                      <div class="timeline-badge danger"><a href="javascript:;" style="color: #fff;" onmouseover="shufflediv('div5')"><span>2002</span></a></div>
+                                      <div class="timeline-panel stepper-penel-a" id="div5" style="display: none;">
+                                        <div class="timeline-body">
+                                          <p>Erste internationale Mitgliedschaft in einem Employee Benefit Netzwerk (Globex USA)</p>
+                                        </div>
+                                      </div>
+                                    </li>
+                                    <li>
+                                      <div class="timeline-badge warning"><a href="javascript:;" style="color: #fff;" onmouseover="shufflediv('div4')"><span>2002</span></a></div>
+                                      <div class="timeline-panel" id="div4" style="display: none;">
+                                        <div class="timeline-body">
+                                          <p>Erste Kundenbesuche (Brocade, Google) und Vorträge (Globex Konferenz in San Diego) in den USA</p>
+                                        </div>
+                                      </div>
+                                    </li>   
+                                    <li>
+                                      <div class="timeline-badge danger"><a href="javascript:;" style="color: #fff;" onmouseover="shufflediv('div3')"><span>2002</span></a></div>
+                                      <div class="timeline-panel stepper-penel-a" id="div3" style="display: none;">
+                                        <div class="timeline-body">
+                                          <p>Erstmalig mehr als EUR 500.000 Umsatz</p>
+                                        </div>
+                                      </div>
+                                    </li>
+                                    <li>
+                                      <div class="timeline-badge warning"><a href="javascript:;" style="color: #fff;" onmouseover="shufflediv('div2')"><span>2004</span></a></div>
+                                      <div class="timeline-panel" id="div2" style="display: none;">
+                                        <div class="timeline-body">
+                                          <p>Amazon wird Profion’s 50ster Firmenkunde</p>
+                                        </div>
+                                      </div>
+                                    </li>
+                                    <li>
+                                      <div class="timeline-badge"><a href="javascript:;" style="color: #fff;" onmouseover="shufflediv('div1')"><span>2006</span></a></div>
+                                      <div class="timeline-panel stepper-penel-a" id="div1" style="display: none;">
+                                        <div class="timeline-body">
+                                         <p>Beteiligung der SÜDVERS Vorsorge GmbH an der Profion</p>
+                                        </div>
+                                      </div>
+                                    </li>
+                                    <li>
+                                      <div class="timeline-badge warning"><a href="javascript:;" style="color: #fff;" onmouseover="shufflediv('div12')"><span>2011</span></a></div>
+                                      <div class="timeline-panel" id="div12" style="display: none;">
+                                        <div class="timeline-body">
+                                          <p>Verdoppelung der Mitarbeiterzahl seit Beginn</p>
+                                        </div>
+                                      </div>
+                                    </li> 
+                                     <li>
+                                      <div class="timeline-badge danger"><a href="javascript:;" style="color: #fff;" onmouseover="shufflediv('div11')"><span>2015</span></a></div>
+                                      <div class="timeline-panel stepper-penel-a" id="div11" style="display: none;">
+                                        <div class="timeline-body">
+                                          <p>Profion betreut erstmalig mehr als 100 Kunden und bietet fortan auch HR-Services an</p>
+                                        </div>
+                                      </div>
+                                    </li>
+                                    <li>
+                                      <div class="timeline-badge warning"><a href="javascript:;" style="color: #fff;" onmouseover="shufflediv('div13')"><span>2018</span></a></div>
+                                      <div class="timeline-panel" id="div13" style="display: none;">
+                                        <div class="timeline-body">
+                                          <p>Stetiges Wachstum führt zur Vervierfachung der Mitarbeiterzahl – Profion bezieht neue, größere Flächen in München</p>
+                                        </div>
+                                      </div>
+                                    </li>
+                                     <li>
+                                      <div class="timeline-badge"><a href="javascript:;" style="color: #fff;" onmouseover="shufflediv('div14')"><span>2019</span></a></div>
+                                      <div class="timeline-panel stepper-penel-a" id="div14" style="display: none;">
+                                        <div class="timeline-body">
+                                         <p>Insgesamt betreut Profion mehr als 200 Kunden bei über 85 Millionen Euro Aktivia</p>
+                                        </div>
+                                      </div>
+                                    </li> 
+                                    <li>
+                                      <div class="timeline-badge warning"><a href="javascript:;" style="color: #fff;" onmouseover="shufflediv('div15')"><span>2020</span></a></div>
+                                      <div class="timeline-panel" id="div15" style="display: none;">
+                                        <div class="timeline-body">
+                                          <p>Der neue Internetauftritt www.profion.de geht live</p>
+                                        </div>
+                                      </div>
+                                    </li>    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+        
+=========================
+
+<script>
+    function shufflediv(indiv) {
+      var x = document.getElementById(indiv);
+    var x1 = document.getElementById('div1');
+    var x2 = document.getElementById('div2');
+    var x3 = document.getElementById('div3');
+    var x4 = document.getElementById('div4');
+    var x5 = document.getElementById('div5');
+    var x6 = document.getElementById('div6');
+    var x7 = document.getElementById('div7');
+    var x8 = document.getElementById('div8');
+    var x9 = document.getElementById('div9');
+    var x10 = document.getElementById('div10');
+    var x11 = document.getElementById('div11');
+    var x12 = document.getElementById('div12');
+    var x13 = document.getElementById('div13');
+    var x14 = document.getElementById('div14');
+    var x15 = document.getElementById('div15');
+    x1.style.display = "none";
+    x2.style.display = "none";
+    x3.style.display = "none";
+    x4.style.display = "none";
+    x5.style.display = "none";
+    x6.style.display = "none";
+    x7.style.display = "none";
+    x8.style.display = "none";
+    x9.style.display = "none";
+    x10.style.display = "none";
+    x11.style.display = "none";
+    x12.style.display = "none";
+    x13.style.display = "none";
+    x14.style.display = "none";
+    x15.style.display = "none";
+    x.style.display = "block";
+    }
+</script>
